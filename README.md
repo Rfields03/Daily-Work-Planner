@@ -16,10 +16,11 @@ Technology:
  - JavaScript
 
  GitHub: https://github.com/Rfields03/Daily-Work-Planner
- 
+
  Live Website: https://rfields03.github.io/Daily-Work-Planner/
 
  Site Image:
+ 
 
  References:
  - Stackoverflow
