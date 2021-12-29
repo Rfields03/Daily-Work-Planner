@@ -21,6 +21,12 @@ textarea{
   border-bottom: 10px solid black;
 }
 
+ul.event-group {
+  min-height: 75px;
+  margin: 0;
+  list-style-type: none;
+}
+
 .description{
   white-space: pre-wrap;
 }
