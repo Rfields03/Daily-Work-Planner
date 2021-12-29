@@ -20,6 +20,7 @@ Technology:
  Live Website: https://rfields03.github.io/Daily-Work-Planner/
 
  Site Image:
+ ![](images/Website%20Image.JPG)
  
 
  References:
