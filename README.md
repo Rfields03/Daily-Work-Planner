@@ -15,10 +15,10 @@ Technology:
  - CSS
  - JavaScript
 
- GitHub:
- Live Website:
+ GitHub: https://github.com/Rfields03/Daily-Work-Planner 
+ Live Website: https://rfields03.github.io/Daily-Work-Planner/
 
- Site Image:
+ Site Image:  
 
  References:
  - Stackoverflow
@@ -26,3 +26,5 @@ Technology:
  - Moment.js
  - jQuery
  - BootStrap
+ - saltamay
+ - RussTracy
