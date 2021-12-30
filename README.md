@@ -15,9 +15,9 @@ Technology:
  - CSS
  - JavaScript
 
- GitHub: https://github.com/Rfields03/Work-Planner
+ GitHub: https://github.com/Rfields03/Daily-Work-Planner
 
- Live Website: https://rfields03.github.io/Work-Planner/
+ Live Website: https://rfields03.github.io/Daily-Work-Planner/
 
  Site Image:
  ![](images/Website%20Image.JPG)
